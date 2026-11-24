@@ -1,0 +1,14 @@
+#ylaosa{
+    background-color: darkgreen;
+}
+#logo{
+    display: block;
+    width: 20%;
+    margin: auto;
+    height: auto;
+    border-radius: 20%;
+}
+
+h1{
+    text-align: center;
+}
